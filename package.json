@@ -1,0 +1,24 @@
+{
+  "name": "mekachat-v1",
+  "version": "1.0.0",
+  "description": "MeKaChat App",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "mekachat",
+    "chat",
+    "node.js",
+    "express",
+    "socket.io"
+  ],
+  "author": "MeKa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.2.0"
+  }
+}
