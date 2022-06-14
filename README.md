@@ -11,6 +11,7 @@ Chat Screen & Sohbet Ekranı
 ![Giriş Sayfası](chatLogin.png)
 
 Dipnot:
+
 İstek olursa proje daha da geliştirilebilir.
 Örnek : Kullanıcı(üyelik) işlemleri ve bulunan tüm odaları listeleyip aktif olarak oda değiştirme işlemleri yada kullanıcıların birbirleriyle özel olarak mesajlaşma işlemleri yapılabilir.
 ----------------------------------------------------------------------------------
