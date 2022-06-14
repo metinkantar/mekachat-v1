@@ -3,9 +3,11 @@
 Simple Chat Starter Kit with Node JS (Express JS) and Socket.io && Node JS (Express JS) ve Socket.io ile Basit Chat Başlangıç Kiti
 
 Chat Login Page & Sohbet Giriş Sayfası
+
 ![Giriş Sayfası](chatHome.png)
 
 Chat Screen & Sohbet Ekranı
+
 ![Giriş Sayfası](chatLogin.png)
 
 Dipnot:
